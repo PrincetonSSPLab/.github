@@ -1,5 +1,9 @@
 ## Princeton's Stigma and Social Perception Lab
-<h3 align="center"><a href="https://psych.princeton.edu/"><img src="https://www.princeton.edu/themes/custom/tony/logo.svg" width="600px"></a></h3>
+<h3 align="center">
+    <a target=blank href="https://www.princeton.edu/">
+        <img src="https://www.princeton.edu/themes/custom/tony/logo.svg" width="600px">
+    </a>
+</h3>
 
 ---
 
